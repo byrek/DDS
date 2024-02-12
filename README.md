@@ -15,3 +15,10 @@ Most important You might be looking for are the wiring connections, so here they
 #define	DDS_ENA		25	//GPIO 25 (pin 37), FQ_UPLOAD
 
 #define DDS_RST		24	//GPIO 24 (pin 35)
+
+
+Oh, and yet You will need a wiringPi library installed on Your Raspberry.
+
+The version I've used and was working fine was 2.25
+
+To compile just run $make
