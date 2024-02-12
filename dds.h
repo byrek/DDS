@@ -4,7 +4,7 @@
 
 /* 0-70MHz DDS generator on AD9851 for Raspberry Pi
                Michal Byrecki SP5BYK
-		   License: GPL					*/
+		   License: Creative Commons Attribution-NonCommercial 4.0 International		*/
 
 //   HARDDWARE WIING FOR RASPBERRY PI-2 with 40-pole connector	*/
 // Now, the GPIO addresses. This part may be quite confusing, as libwiringPi uses a different
